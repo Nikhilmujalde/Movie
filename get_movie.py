@@ -1,7 +1,4 @@
-import json
-import numpy as np
-import pandas as pd
-import pickle
+
 from flask import Flask, jsonify, request
 # from flask_cors import CORS
 from flask_cors import CORS
